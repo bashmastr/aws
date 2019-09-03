@@ -1,3 +1,5 @@
+There you can check out presentation slides you can check out : https://slides.com/bashmastr/deck-2#/
+
 Introduction
 
 We will take a look at using Python Scripts to interact with infrastructure provided by Amazon Web Services(AWS).
